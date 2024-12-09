@@ -1,0 +1,9 @@
+{
+	"name": "rg09dec-adf-blob",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59c4546a-3098-4260-b37b-b2b188c3a7c3",
+		"tenantId": "6c11cbd5-982a-42f8-b53f-5ccfac7db2ab"
+	}
+}
